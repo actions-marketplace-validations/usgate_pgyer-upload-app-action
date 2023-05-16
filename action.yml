@@ -1,4 +1,4 @@
-name: 'This action uploads an application file to PGYER'
+name: 'uploads an application file to PGYER'
 description: 'Greet your app distribution and save the time'
 inputs:
   _api_key:
