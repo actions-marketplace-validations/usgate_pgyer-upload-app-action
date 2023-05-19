@@ -15,7 +15,7 @@ Please make sure your workflow will run when a branch is pushed.
 
 Add this action to steps.
 
-    uses: PGYER/pgyer-upload-app-action@v1.3
+    uses: usgate/pgyer-upload-app-action@v1.3.2
       with:
         _api_key: ${{ secrets.PGYER_API_TOKEN }} # for example
         appFilePath: /path/to/app_file
